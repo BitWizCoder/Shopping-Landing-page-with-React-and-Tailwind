@@ -7,6 +7,7 @@ import Sale from "./components/Sale";
 import Favourite from "./components/Favourite";
 import Download from "./components/Download";
 import Newletter from "./components/Newletter";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Favourite />
       <Download />
       <Newletter />
+      <Footer />
     </>
   );
 }
